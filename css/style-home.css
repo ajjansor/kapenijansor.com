@@ -1,0 +1,228 @@
+body{
+    background-color:#fffdd0;
+}
+.topdiv{
+    background-color:#d4caa3;
+    position: absolute;
+    padding: 0;
+    height: 56px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.topdiv-logo{
+    color: #6f4e37;
+    font-family:cursive;
+    font-size: 30px;
+    font-weight: bolder;
+    display: inline;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.dilat{
+    font-family: Brush Script MT;
+    display: inline;
+    color:#fff8eb;
+    word-spacing: 10px;
+    margin-left: 30px;
+    font-weight: lighter;
+}
+.topdiv-nav{
+    margin-left: 250px;
+    display: inline;
+    
+}
+.topdiv-nav a{
+    font-family:cursive;
+    font-weight: bold;
+    color: #6f4e37;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.topdiv-nav a:hover{
+    background-color: #f6e8b1;
+}
+.search{
+    display: inline;
+    font-family:cursive;
+}
+.searchbar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    font-family:cursive;
+    background-color:#f6e8b1;
+    vertical-align:top;
+    width: 100px;
+    
+}
+.profile{
+    height: 40px;
+    width: 40px;
+    display: inline;
+    margin-left: 10px;
+}
+.profilediv{
+    display: inline;
+    vertical-align: middle;
+}
+.content-index{
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    display:flex;
+    background-size: cover;
+    background-position: center;
+ 
+}
+.intro-left{
+  width: 750px; 
+}
+.intro-left p{
+    color: #6f4e37;
+    margin-top: 10px;
+    font-size: 90px;
+    font-family:cursive;
+    margin-bottom: 0px;
+}
+.intro-left h3{
+    color: #6f4e37;
+    font-family:cursive;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.intro-right{
+    width: 500px;
+}
+.intro-right img{
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 100px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 10) ;
+}
+
+.content2-index{
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display:flex;
+    background-size: cover;
+    background-position: center;
+ 
+}
+.intro2-left{
+  width: 750px;
+}
+.intro2-left p{
+    color: #6f4e37;
+    margin-top: 10px;
+    font-size: 50px;
+    text-align: justify;
+    font-family:cursive;
+    margin-bottom: 0px;
+}
+.intro2-left h3{
+    color: #6f4e37;
+    font-family:cursive;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.intro2-right{
+    width: 500px;
+}
+.intro2-right img{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 10) ;
+}
+
+.coffee-beans-title{
+    color: #6f4e37;
+    font-family:cursive;
+    font-size: 100px;
+    width: 1250px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.intro3-left{
+  width: 625px;
+  display: inline-block;
+}
+.intro3-left img{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 150px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 10) ;
+}
+.intro3-right{
+    width: 625px;
+    display: inline;
+}
+.intro3-right img{
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 150px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 10) ;
+}
+
+
+.coffee-drinks-title{
+    color: #6f4e37;
+    font-family:cursive;
+    font-size: 50px;
+    width: 1250px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.intro4-left{
+    width: 625px;
+    display: inline-block;
+  }
+  .intro4-left img{
+      margin-top: 10px;
+      width: 300px;
+      height: 300px;
+      border-radius: 20px;
+      margin-left: 150px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 10) ;
+  }
+
+
+  .intro4-right{
+      width: 625px;
+      display: inline;
+  }
+  .intro4-right img{
+      margin-top: 10px;
+      width: 300px;
+      height: 300px;
+      border-radius: 20px;
+      margin-left: 150px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 10) ;
+  }
+  .hr{
+    background-color: #6f4e37;
+    height: 5px;
+    border-radius: 20px;
+  }
